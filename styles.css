@@ -23,3 +23,17 @@ button {
 button:hover {
   background-color: #45a049;
 }
+
+#opcoes button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #c46c6c;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#opcoes button:hover {
+  background-color: #a14545;
+  color: black;
+}
