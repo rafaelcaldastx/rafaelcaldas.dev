@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#convite {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #ccc;
+  padding: 10px;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
